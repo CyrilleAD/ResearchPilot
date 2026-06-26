@@ -1,0 +1,20 @@
+# Variables d'environnement — ne jamais pousser sur GitHub
+.env
+
+# Dossiers Python generés automatiquement
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Etat des projets — donnees personnelles
+etat_projets/
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db
